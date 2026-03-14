@@ -52,7 +52,7 @@ Create `.env` file in the `backend` directory:
 PORT=7001
 SESSION_SECRET=your-super-secure-session-secret-here
 JWT_SECRET=your-super-secure-jwt-secret-here
-CONNECTION_STRING=mongodb+srv://username:password@cluster.mongodb.net/your-database
+CONNECTION_STRING=mongodb-url/your-database
 ```
 
 **Security Notes:**
